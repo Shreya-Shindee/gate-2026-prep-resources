@@ -30,20 +30,7 @@ This repository contains carefully curated and **verified links** to high-qualit
 - **Artificial Intelligence** (5-10%)
 - **Database Management and Warehousing** (5-10%)
 
-## 🚀 Quick Start
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/gate-2026-prep-resources.git
-   cd gate-2026-prep-resources
-   ```
-
-2. **Open the main resource page:**
-   - Open `index.html` in your browser
-   - Use checkboxes to track your progress
-   - Click links to access resources directly
-
-## 📚 Resource Categories
+##  Resource Categories
 
 ### 📖 **Study Materials**
 - **Books:** Access via Anna's Archive for standard textbooks
